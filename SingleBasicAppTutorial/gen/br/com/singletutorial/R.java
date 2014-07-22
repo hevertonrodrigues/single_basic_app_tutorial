@@ -178,16 +178,22 @@ public final class R {
         public static final int rounded_element=0x7f020001;
     }
     public static final class id {
-        public static final int basic_item1_avatar=0x7f070000;
-        public static final int basic_item1_title=0x7f070001;
-        public static final int single_list1_listview=0x7f070002;
+        public static final int single_team_avatar=0x7f070000;
+        public static final int single_team_name=0x7f070001;
+        public static final int team_description_avatar=0x7f070002;
+        public static final int team_description_name=0x7f070003;
+        public static final int team_description_stadium=0x7f070005;
+        public static final int team_description_year=0x7f070004;
+        public static final int team_list_view=0x7f070006;
     }
     public static final class layout {
         public static final int activity_main_menu=0x7f030000;
-        public static final int basic_item1=0x7f030001;
-        public static final int single_list_1=0x7f030002;
+        public static final int layout_single_team=0x7f030001;
+        public static final int layout_team_description=0x7f030002;
+        public static final int layout_team_list=0x7f030003;
     }
     public static final class string {
+        public static final int activity_basic_item1_description=0x7f050002;
         /**  Activity Names 
          */
         public static final int activity_single_list1=0x7f050001;

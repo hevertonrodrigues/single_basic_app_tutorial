@@ -1,4 +1,4 @@
-package br.com.singletutorial.basic.item1;
+package br.com.singletutorial.footballteam;
 
 import java.io.Serializable;
 
@@ -8,11 +8,13 @@ import com.google.gson.annotations.SerializedName;
  * This class uses GSON to parse data and put it into a List View. I'm using the
  * aliasing in my class to show the real use of GSON.
  * 
+ * For more information enter in: https://code.google.com/p/google-gson
+ * 
  * @author BrunoGabriel
  * @since 07/21/2014
  */
 
-public class SingleBasicItem1JSON implements Serializable {
+public class TeamJSON implements Serializable {
 
 	private static final long serialVersionUID = 600212725375643082L;
 

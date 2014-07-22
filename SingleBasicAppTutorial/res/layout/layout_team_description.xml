@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/team_description_avatar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/team_description_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:textStyle="bold"
+        android:layout_below="@+id/team_description_avatar"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@null" />
+
+    <TextView
+        android:id="@+id/team_description_year"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/team_description_name"
+        android:layout_below="@+id/team_description_name"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@null" />
+
+    <TextView
+        android:id="@+id/team_description_stadium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/team_description_year"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/team_description_year"
+        android:layout_marginTop="20dp"
+        android:gravity="center_horizontal"
+        android:text="@null" />
+
+</RelativeLayout>

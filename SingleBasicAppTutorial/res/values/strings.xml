@@ -5,5 +5,6 @@
     
     <!-- Activity Names -->
     <string name="activity_single_list1">Activity: Teams List</string>
+    <string name="activity_basic_item1_description">Activity: Teams description</string>
 
 </resources>

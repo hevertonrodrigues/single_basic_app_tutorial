@@ -5,7 +5,7 @@
     android:padding="10dp" >
 
     <ImageView
-        android:id="@+id/basic_item1_avatar"
+        android:id="@+id/single_team_avatar"
         android:layout_width="75dp"
         android:layout_height="75dp"
         android:contentDescription="@string/app_name" />
@@ -14,11 +14,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/basic_item1_avatar"
-        android:layout_toRightOf="@+id/basic_item1_avatar" >
+        android:layout_alignTop="@+id/single_team_avatar"
+        android:layout_toRightOf="@+id/single_team_avatar" >
 
         <TextView
-            android:id="@+id/basic_item1_title"
+            android:id="@+id/single_team_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
