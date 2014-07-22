@@ -2,5 +2,8 @@
 <resources>
 
     <string name="app_name">Single Basic App Tutorial</string>
+    
+    <!-- Activity Names -->
+    <string name="activity_single_list1">Activity: Teams List</string>
 
 </resources>

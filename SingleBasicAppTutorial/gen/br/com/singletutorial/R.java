@@ -180,12 +180,17 @@ public final class R {
     public static final class id {
         public static final int basic_item1_avatar=0x7f070000;
         public static final int basic_item1_title=0x7f070001;
+        public static final int single_list1_listview=0x7f070002;
     }
     public static final class layout {
         public static final int activity_main_menu=0x7f030000;
         public static final int basic_item1=0x7f030001;
+        public static final int single_list_1=0x7f030002;
     }
     public static final class string {
+        /**  Activity Names 
+         */
+        public static final int activity_single_list1=0x7f050001;
         public static final int app_name=0x7f050000;
     }
     public static final class style {

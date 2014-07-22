@@ -6,15 +6,15 @@
 
     <uses-sdk
         android:minSdkVersion="14"
-        android:targetSdkVersion="14" />
+        android:targetSdkVersion="18" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
+        android:label="@string/activity_single_list1"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainMenuActivity"
+            android:name="br.com.singletutorial.basic.item1.BasicListView1"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
