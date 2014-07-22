@@ -5,70 +5,63 @@
 			"id": "00x1",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/archive/b/b4/20140524013425!Corinthians_simbolo.png",
 			"name": "Sport Clube Corinthians Paulista",
-			"year": "1910",
+			"year": 1910,
 			"stadium": "Itaquerão"		
 		},
 		{
 			"id": "00x2",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/9/98/Real_Madrid.png",
 			"name": " Real Madrid Club de Fútbol",
-			"year": "1902",
+			"year": 1902,
 			"stadium": "Santiago Bernabéu"		
 		},
 		{
 			"id": "00x3",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_FC_Bayern_M%C3%BCnchen.svg",
 			"name": "Fußball-Club Bayern München",
-			"year": "1900",
+			"year": 1900,
 			"stadium": "Allianz Arena"		
 		},
 		{
 			"id": "00x4",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/4/43/FCBarcelona.svg",
 			"name": "Futbol Club Barcelona",
-			"year": "1899",
+			"year": 1899,
 			"stadium": "Camp Nou"		
 		},
 		{
 			"id": "00x5",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/commons/d/de/Boca_Juniors_2012.svg",
 			"name": "Club Atlético Boca Juniors",
-			"year": "1905",
+			"year": 1905,
 			"stadium": "La Bombonera"		
-		},
+		},		
 		{
 			"id": "00x6",
-			"url_picture": "",
-			"name": "",
-			"year": "",
-			"stadium": ""		
-		},
-		{
-			"id": "00x7",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/b/b6/Manchester_United_FC_logo.png",
 			"name": "Manchester United Football Club",
-			"year": "1878",
+			"year": 1878,
 			"stadium": "Old Trafford"		
 		},
 		{
-			"id": "00x8",
+			"id": "00x7",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/d/d5/AC_Milan_logo.png",
 			"name": "Associazione Calcio Milan",
-			"year": "1899",
+			"year": 1899,
 			"stadium": "San Siro"		
 		},
 		{
-			"id": "00x9",
+			"id": "00x8",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/c/c5/F.C._Porto_logo.png",
 			"name": "Futebol Clube do Porto",
-			"year": "1906",
+			"year": 1906,
 			"stadium": "Estádio do Dragão"		
 		},
 		{
-			"id": "00x10",
+			"id": "00x9",
 			"url_picture": "http://upload.wikimedia.org/wikipedia/pt/b/b8/AFC_Ajax_Amsterdam.svg",
 			"name": "Amsterdamsche Football Club Ajax",
-			"year": "1900",
+			"year": 1900,
 			"stadium": "Amsterdam Arena"		
 		}	
 	]
